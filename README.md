@@ -5,7 +5,7 @@ The adding of this semantic html is so the accessablity of the website is better
 challenges in writing sematic html and learning of better ways for the website to be accessible friendly.
 ## Depolyed link
 https://martinsandoval007.github.io/Accessibility-uta-bootcamp/
-##licence
+## licence
 MIT License
 
 Copyright (c) 2023 Martin Sandoval
